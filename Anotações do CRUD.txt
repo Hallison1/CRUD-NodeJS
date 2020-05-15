@@ -1,0 +1,7 @@
+Bibliotecas NodeJS:
+	OBS:npm é uma dependencia do node onde é possivel instalar diversas bibliotecas pelo CMD do Win
+	npm install --save express      // biblioteca mais completa do node
+	npm install --save nodemon      //serve para executar o servidor de forma que atualiza constantemente
+	npm install --save mysql        //instala a biblioteca do mysql
+	npm install --save body-parser  //recebe os dados de forma mais pratica dos formularios
+	npm install --save express-hundlebars // serve para trabalhar com templates
